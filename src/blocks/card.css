@@ -1,0 +1,42 @@
+.card {
+    width: 325px;
+    height: 515px;
+    display: flex;
+    flex-direction: column;
+    margin: 200px auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.card__image {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card__info {
+    font-family: "Outfit", Arial, sans-serif;
+    line-height: 25px;
+    font-weight: 700;
+    font-style: bold;
+    width: 285px;
+    font-size:  22px;
+    text-align: center;
+    margin:20px 0;
+    color: 	#1f3251
+}
+
+.card__info-sub {
+    line-height: 20px;
+    font-weight: 400;
+    font-style: Regular;
+    width: 285px;
+    font-size:  15px;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: 	#7b879d;
+}
