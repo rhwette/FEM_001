@@ -19,7 +19,7 @@ first in a series of FrontEndMentor challenges.  This one from the "Easy" catego
 
 ### Screenshot
 
-![screenshot of final page](./images/Screenshot 2022-08-25 102302.jpg)
+![screenshot of final page](../src/images/Screenshot 2022-08-25 102302.jpg)
 
 ### Links
 
